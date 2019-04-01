@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Blackout Midnight'
+}
+
+@font-face {
+  font-family: 'Blackout_Sunrise';
+  src: url('../src/assets/fonts/Blackout_Sunrise.ttf') format('truetype'), /* Safari, Android, iOS */
+
+
+}
+
+@font-face {
+  font-family: "Blackout Midnight";
+  src: url("../src/assets/fonts/Blackout-Midnight.eot?") format("eot"), url("../src/assets/fonts/Blackout-Midnight.woff") format("woff"), url("../src/assets/fonts/Blackout-Midnight.ttf") format("truetype"), url("../src/assets/fonts/Blackout-Midnight.svg#Blackout-Midnight") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
